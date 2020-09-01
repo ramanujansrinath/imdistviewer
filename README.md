@@ -15,3 +15,11 @@ Select the random data option in the Help menu to play around with the GUI.
 
 ## Note
 The image border (usually indicates a response of some kind to the image) is assumed to be a part of the image itself. In future versions, I may add a way to import the response with the data and add the image border in the GUI itself.
+
+## Future
+- Import responses and generate image borders
+- Copy/Cut/Paste data
+- Click in the Zoom Plot to select images
+- Some way to cycle through images that are overlaid on top of each other
+- A Java-based web version
+- Rubber banding and animations 😎
